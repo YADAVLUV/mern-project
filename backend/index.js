@@ -1,4 +1,4 @@
-const connectToMongo = require('./db');
+const connectToMongo = require('../backend/db');
 const express = require('express')
 var cors = require('cors')
 
